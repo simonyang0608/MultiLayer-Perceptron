@@ -13,7 +13,7 @@ The purpose of program is training to tune a number of groups of shifting biases
 ![擷取](https://user-images.githubusercontent.com/31026907/218099875-c1987303-799b-4921-a976-81ae5f2a3eb6.PNG)
 
 
-# Setup & run code
+# Setup & Run Code
 
 ## Getting Started
 - Clone this repo to your local
