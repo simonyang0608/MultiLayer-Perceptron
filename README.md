@@ -11,3 +11,8 @@ The purpose of program is training to cut a number of groups of shifting biases 
 
 ## BackPropagation Pass
 ![擷取](https://user-images.githubusercontent.com/31026907/218099875-c1987303-799b-4921-a976-81ae5f2a3eb6.PNG)
+
+
+# Setup & run code
+
+## Getting Started
