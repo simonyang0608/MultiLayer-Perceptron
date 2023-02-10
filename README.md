@@ -24,3 +24,11 @@ cd MultiLayer-Perceptron
 ```
 
 ![擷取](https://user-images.githubusercontent.com/31026907/218102800-2a904e69-1d40-4402-8232-66b0eb9c71ef.PNG)
+
+1. Input random sample set
+2. Adjustable parameters
+3. start training button
+4. Epochs
+5. Training loss(curve) visualization
+6. Learned hyperline visualization
+7. Weights and biases distribution
