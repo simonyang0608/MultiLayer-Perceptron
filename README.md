@@ -47,3 +47,6 @@ cd MultiLayer-Perceptron
 - Large size (from 20 to 100) of hidden layer with the learning rate ranging from 0.02~0.006 will tend to get good result.
 
 ![20230210_224842](https://user-images.githubusercontent.com/31026907/218121816-4198f204-804a-4914-a638-fb3a75c00535.gif)
+
+- Larger hidden layer size over 100 is not recommended since the simple linear regression and prediction task no need to use such complicated network, 
+it may lead to over-fitting results in low convergence speed.
