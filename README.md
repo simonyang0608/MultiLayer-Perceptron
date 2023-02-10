@@ -40,4 +40,5 @@ cd MultiLayer-Perceptron
 ### Different size of hidden layer with suitable learning rate will tend to get good result of convergence (no matter the size of sample set)
 
 - Small size (below 20) of hidden layer with the learning rate ranging from 0.08~0.007 will tend to get good result
+
 ![20230210_220908](https://user-images.githubusercontent.com/31026907/218112653-ce69aee4-4a7c-4d63-9a15-2427b3a62d07.gif)
