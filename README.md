@@ -32,3 +32,5 @@ cd MultiLayer-Perceptron
 5. Training loss(curve) visualization
 6. Learned hyperline visualization
 7. Weights and biases distribution
+
+## Demo
