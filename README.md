@@ -50,7 +50,7 @@ cd MultiLayer-Perceptron
 
 
 - Larger size of hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, 
-it may lead to over-fitting results in low convergence speed.
+it may lead to over-fitting, results in low convergence speed.
 
 # Contributing
 Please feel free to use it if you are interested in fixing issues and contributing directly to the code base.
