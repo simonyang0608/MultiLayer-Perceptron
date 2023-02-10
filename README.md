@@ -34,3 +34,4 @@ cd MultiLayer-Perceptron
 7. Weights and biases distribution
 
 ## Demo
+![20230210_214135](https://user-images.githubusercontent.com/31026907/218107731-bb23dd17-0435-4c62-8688-4c06e4bf7af7.gif)
