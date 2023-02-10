@@ -1,5 +1,5 @@
 # Multiple-Layer Perceptron
-Using C# to implement multiple layer perceptron simulator.
+Using C# to implement multiple layer perceptron simulator. Learning algorithm can refer to [this](https://en.wikipedia.org/wiki/Perceptron#Learning_algorithm) Wikipedia page.
 
 The dataset consists of multi-dimensional input sample set and ground truth set, The sample set will be given to training function to predict the ground truth set.
 
