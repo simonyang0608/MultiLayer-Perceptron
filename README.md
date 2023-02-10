@@ -27,7 +27,7 @@ cd MultiLayer-Perceptron
 
 1. Input random sample set
 2. Adjustable parameters
-3. start training button
+3. Start training button
 4. Epochs
 5. Training loss(curve) visualization
 6. Learned hyperline visualization
