@@ -16,3 +16,9 @@ The purpose of program is training to cut a number of groups of shifting biases 
 # Setup & run code
 
 ## Getting Started
+- Clone this repo to your local
+
+```
+git clone https://github.com/simonhandsome/MultiLayer-Perceptron
+cd MultiLayer-Perceptron
+```
