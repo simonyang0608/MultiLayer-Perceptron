@@ -44,7 +44,7 @@ cd MultiLayer-Perceptron
 ![20230210_220908](https://user-images.githubusercontent.com/31026907/218112653-ce69aee4-4a7c-4d63-9a15-2427b3a62d07.gif)
 
 
-- Large size (from 20 to 100) of hidden layer with the learning rate ranging from 0.02~0.006 will tend to get good result.
+- Large size (from 20 to 100) of hidden layer with the learning rate ranging from 0.03~0.006 will tend to get good result.
 
 ![20230210_224842](https://user-images.githubusercontent.com/31026907/218121816-4198f204-804a-4914-a638-fb3a75c00535.gif)
 
