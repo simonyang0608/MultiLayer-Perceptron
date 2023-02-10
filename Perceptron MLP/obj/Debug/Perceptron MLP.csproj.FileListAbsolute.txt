@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\bin\Debug\Perceptron MLP.exe.config
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\bin\Debug\Perceptron MLP.exe
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\bin\Debug\Perceptron MLP.pdb
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron_MLP.Properties.Resources.resources
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron MLP.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron MLP.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron MLP.exe
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron MLP.pdb
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron_MLP.Form1.resources
+C:\Users\USER\source\repos\Perceptron MLP\Perceptron MLP\obj\Debug\Perceptron MLP.csproj.AssemblyReference.cache
