@@ -22,3 +22,5 @@ The purpose of program is training to cut a number of groups of shifting biases 
 git clone https://github.com/simonhandsome/MultiLayer-Perceptron
 cd MultiLayer-Perceptron
 ```
+
+![擷取](https://user-images.githubusercontent.com/31026907/218102800-2a904e69-1d40-4402-8232-66b0eb9c71ef.PNG)
