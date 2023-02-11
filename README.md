@@ -48,9 +48,11 @@ cd MultiLayer-Perceptron
 
 ![20230210_224842](https://user-images.githubusercontent.com/31026907/218121816-4198f204-804a-4914-a638-fb3a75c00535.gif)
 
+### Large size sample set will tend to converge faster than the small size with the same settings of hidden layer and learning rate.
 
-- Larger size of hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, 
-it may lead to over-fitting, results in low convergence speed.
+
+### Larger size of hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, 
+it may lead to over-fitting, results in low converge speed.
 
 # Contributing
 Please feel free to use it if you are interested in fixing issues and contributing directly to the code base.
