@@ -54,9 +54,12 @@ cd MultiLayer-Perceptron
 
 ![20230211_114623](https://user-images.githubusercontent.com/31026907/218237420-544cfd2a-5ee1-4216-a4ba-528b525212fc.gif)
 
+- Large size sample set
 
-### Larger size of hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, 
-it may lead to over-fitting, results in low converge speed.
+![20230211_115916](https://user-images.githubusercontent.com/31026907/218238123-727738b7-1c90-4c24-84bf-2a58284738cd.gif)
+
+
+### Larger size of hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, it may lead to over-fitting, results in low converge speed.
 
 # Contributing
 Please feel free to use it if you are interested in fixing issues and contributing directly to the code base.
