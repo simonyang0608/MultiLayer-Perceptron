@@ -38,7 +38,7 @@ cd MultiLayer-Perceptron
 
 # Conclusion
 
-### Large size sample set will tend to converge faster than the small size, with the same settings of hidden layer and learning rate.
+## Large size sample set will tend to converge faster than the small size, with the same settings of hidden layer and learning rate.
 
 - Small size sample set
 
@@ -48,7 +48,7 @@ cd MultiLayer-Perceptron
 
 ![20230211_115916](https://user-images.githubusercontent.com/31026907/218238123-727738b7-1c90-4c24-84bf-2a58284738cd.gif)
 
-### Different size (below 100) of hidden layer with suitable learning rate will tend to get good result of convergence (no matter the size of sample set).
+## Different size (below 100) of hidden layer with suitable learning rate will tend to get good result of convergence (no matter the size of sample set).
 
 - Small size (below 20) hidden layer with the learning rate ranging from 0.08~0.007 will tend to get good result.
 
@@ -58,7 +58,7 @@ cd MultiLayer-Perceptron
 
 ![20230210_224842](https://user-images.githubusercontent.com/31026907/218121816-4198f204-804a-4914-a638-fb3a75c00535.gif)
 
-### Larger size hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, it may lead to over-fitting, results in low converge speed.
+## Larger size hidden layer (over 100) is not recommended since the simple linear regression and prediction task no need to use such complicated network, it may lead to over-fitting, results in low converge speed.
 
 # Contributing
 Please feel free to use it if you are interested in fixing issues and contributing directly to the code base.
