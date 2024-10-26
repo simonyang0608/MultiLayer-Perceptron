@@ -19,7 +19,7 @@ The purpose of program is training to tune a number of groups of shifting biases
 - Clone this repo to your local
 
 ```
-git clone https://github.com/simonhandsome/MultiLayer-Perceptron
+git clone https://github.com/simonyang0608/MultiLayer-Perceptron
 cd MultiLayer-Perceptron
 ```
 
